@@ -1,8 +1,8 @@
-## Multiplicar Conole App
+## Multiplicar Console App
 
 Esta es una aplicacion para generar archivos de tablas de multiplicar 
 
-            ___________________________
+             __________________________
             │                          │ 
             │  utilizar npm install    │
             │                          │         
